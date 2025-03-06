@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abdelhalim</h1>
 <h3 align="center">Welcome to my GitHub profile! I'm a computer science student currently studying at the University of Rouen, specializing in Software Engineering (Génie de l'Informatique Logicielle). My passion lies in crafting efficient and scalable software solutions, and I'm always eager to learn and explore new technologies.
 </h3>
-<h4>Currently learning : Symfony PHP.</h4>
-
 - 📫 How to reach me **esselami.abdelhalim@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
